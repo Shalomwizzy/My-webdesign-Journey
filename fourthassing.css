@@ -1,0 +1,36 @@
+.leaf{
+    background-color:green;
+    width: 90px;
+    height: 90px;
+    border-top-left-radius:  80px;
+    border-bottom-right-radius: 80px;
+    border-top-right-radius: 20px;
+    border-width: 0;
+    color: white;
+}
+.ready{
+    border-style: dashed;
+    border-color: #841003;
+    background-color: #ffd0b5;
+    color: #841003;
+    
+}
+.set{
+    border-style: dotted;
+    width: 50px;
+    height: 40px;
+    background-color: #fab8d9;
+    border-color: #5c0b33;
+    color: #5c0b33;
+    border-width: 3px;
+}
+.go{
+    width: 70px;
+    height: 70px;
+    border-color: green;
+    border-radius: 45px;
+    border-width: 4px;
+    background-color: white;
+    border-style: solid;
+
+}
